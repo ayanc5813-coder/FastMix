@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Why is the sky blue?",
+        "answer": "Rayleigh scattering"
+    },
+    {
+        "question": "Why do airplanes fly?",
+        "answer": "lift"
+    },
+    {
+        "question": "Why do objects fall to the ground?",
+        "answer": "gravity"
+    },
+    {
+        "question": "Why does ice float on water?",
+        "answer": "less dense"
+    },
+    {
+        "question": "Why does the Earth orbit the Sun?",
+        "answer": "gravity"
+    }
+]

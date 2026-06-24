@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Which tool retrieves web information?",
+        "answer": "web"
+    },
+    {
+        "question": "Which tool executes Python code?",
+        "answer": "python"
+    },
+    {
+        "question": "Which tool generates images?",
+        "answer": "image"
+    }
+]

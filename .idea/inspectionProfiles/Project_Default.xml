@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="torch" />
+          <option value="transformers" />
+          <option value="datasets" />
+          <option value="huggingface-hub" />
+          <option value="tokenizers" />
+          <option value="safetensors" />
+          <option value="sentencepiece" />
+          <option value="accelerate" />
+          <option value="tqdm" />
+          <option value="numpy" />
+          <option value="PyYAML" />
+          <option value="requests" />
+          <option value="packaging" />
+          <option value="filelock" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

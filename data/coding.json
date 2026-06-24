@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Write factorial function in Python",
+        "answer": "def factorial"
+    },
+    {
+        "question": "Reverse a string in Python",
+        "answer": "[::-1]"
+    },
+    {
+        "question": "Create a Python list",
+        "answer": "["
+    },
+    {
+        "question": "Define a Python class",
+        "answer": "class"
+    },
+    {
+        "question": "Create a for loop in Python",
+        "answer": "for"
+    }
+]

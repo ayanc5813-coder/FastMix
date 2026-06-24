@@ -1,0 +1,22 @@
+[
+    {
+        "question": "15 + 17",
+        "answer": "32"
+    },
+    {
+        "question": "20 * 5",
+        "answer": "100"
+    },
+    {
+        "question": "81 / 9",
+        "answer": "9"
+    },
+    {
+        "question": "12 * 12",
+        "answer": "144"
+    },
+    {
+        "question": "100 - 25",
+        "answer": "75"
+    }
+]
